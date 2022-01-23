@@ -1,0 +1,17 @@
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\bin\Debug\net5.0\NTier.DataAccess.deps.json
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\bin\Debug\net5.0\NTier.DataAccess.dll
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\bin\Debug\net5.0\ref\NTier.DataAccess.dll
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\bin\Debug\net5.0\NTier.DataAccess.pdb
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\bin\Debug\net5.0\NTier.Entites.dll
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\bin\Debug\net5.0\NTier.Entites.pdb
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\NTier.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\NTier.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\NTier.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\NTier.DataAccess.AssemblyInfo.cs
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\NTier.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\NTier.DataAccess.csproj.CopyComplete
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\NTier.DataAccess.dll
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\ref\NTier.DataAccess.dll
+C:\Users\ATAKAN\Desktop\TodoListDesktop\NTier.DataAccess\obj\Debug\net5.0\NTier.DataAccess.pdb
